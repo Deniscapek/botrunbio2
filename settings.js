@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autobio = true 
 
 //language
@@ -26,10 +26,10 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Xinzuo ×፝֟͜×" //namabot kalian
 global.ownername= "ᴹᴿDenzz " //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.myweb ="https://xinzuoDashboard/ServerUsage" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/Xinzuo" //bebas asal jan hapus
+global.github = "https://github.com/Deniscapek" //bebas
+global.email = "mahuangxinzuo@gmail.com" //bebas
 global.region = "China" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ["6281391337455"] //premium user
@@ -57,7 +57,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: 'Permintaan Anda Selesai!',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
